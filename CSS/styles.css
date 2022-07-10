@@ -1,4 +1,3 @@
-/****************TAG SELECTOR*******************/
 body {
   color: #40514E;
   margin: 0;
@@ -51,7 +50,6 @@ a {
 a:hover {
   color: #EAF6F6;
 }
-/****************CLASS SELECTOR*******************/
 .top-container {
   background-color: #EEEEEE;
   position: relative;
@@ -88,7 +86,9 @@ a:hover {
   text-align: left;
   line-height: 2;
 }
-
+.felipe-png {
+  margin: auto;
+}
 .profile {
   text-align: left;
   margin: auto;
